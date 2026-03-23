@@ -98,7 +98,7 @@ export function Contact() {
   const locations = [
     {
       name: "Kakinada - Main Branch",
-      address: "D.No. 6-1-58, Opp. Telephone Bhavan, SBI Colony, Suryarao Pet, Kakinada - 533003",
+      address: "9-7-11/ B-1 Road facing,(beside UCH community hall) Gandhi Nagar - Kakinada 533 004",
       phone: "+91 9998885881",
       email: "info@auspenacademy.com",
       status: "open"
@@ -285,7 +285,7 @@ export function Contact() {
                       <div>
                         <h3 className="mb-1 text-gray-900">Visit Us</h3>
                         <p className="text-sm text-gray-600">
-                          D.No. 6-1-58, Opp. Telephone Bhavan, SBI Colony, Suryarao Pet, Kakinada - 533003
+                          9-7-11/ B-1 Road facing,(beside UCH community hall) Gandhi Nagar - Kakinada 533 004
                         </p>
                       </div>
                     </div>
