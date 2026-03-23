@@ -163,10 +163,7 @@ export function AboutUs() {
               <div className="mb-2 text-4xl font-bold" style={{ color: '#2E66B1' }}>5000+</div>
               <p className="text-sm text-gray-600">Students Mentored to Success</p>
             </div>
-            <div className="text-center">
-              <div className="mb-2 text-4xl font-bold" style={{ color: '#2E66B1' }}>95%</div>
-              <p className="text-sm text-gray-600">Student Satisfaction Rate</p>
-            </div>
+          
           </div>
         </div>
       </section>

@@ -136,7 +136,6 @@ export function Home() {
   const stats = [
     { value: "15+", label: "Years of Teaching Experience" },
     { value: "5000+", label: "Students Trained" },
-    { value: "95%", label: "Success Rate" },
     { value: "15+", label: "Expert Faculty" }
   ];
 
