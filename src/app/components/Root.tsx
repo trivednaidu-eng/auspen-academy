@@ -96,7 +96,7 @@ export function Root() {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 -ml-4 sm:-ml-6 lg:-ml-8">
               <span 
-                className="font-bold text-[40px] font-[Orbitron]" 
+                className="font-bold text-[18px] sm:text-[24px] md:text-[32px] lg:text-[40px] font-[Orbitron]" 
                 style={{ 
                   color: '#2E66B1'
                 }}
