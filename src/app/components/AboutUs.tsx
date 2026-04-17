@@ -150,7 +150,7 @@ export function AboutUs() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
+          <div className="grid gap-8 [grid-template-columns:repeat(auto-fit,minmax(220px,1fr))]">
             <div className="text-center">
               <div className="mb-2 text-4xl font-bold" style={{ color: '#2E66B1' }}>100%</div>
               <p className="text-sm text-gray-600">Faculty from IITs & Premier Institutions</p>

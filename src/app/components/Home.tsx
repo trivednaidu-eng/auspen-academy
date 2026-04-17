@@ -198,7 +198,7 @@ export function Home() {
       {/* Stats Section with Animation */}
       <section className="bg-gray-50 py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 gap-8 md:grid-cols-4">
+          <div className="grid gap-8 [grid-template-columns:repeat(auto-fit,minmax(200px,1fr))]">
             {stats.map((stat, index) => (
               <StaggeredItem key={index} delay={index * 0.1}>
                 <div className="text-center">
