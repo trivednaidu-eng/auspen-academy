@@ -340,6 +340,14 @@ export function Home() {
           </motion.div>
         </div>
       </ParallaxSection>
-    </div>
+      <a
+  href="https://wa.me/919998885881?text=Hi%20I%20am%20interested%20in%20your%20courses.%20Please%20share%20details."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="fixed bottom-5 right-5 bg-green-500 hover:bg-green-600 text-white px-5 py-3 rounded-full shadow-lg flex items-center gap-2 z-50"
+>
+  💬 WhatsApp
+     </a>
+   </div>
   );
 }
